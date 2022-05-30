@@ -1,3 +1,7 @@
 venv
 __pycache__
 .idea
+configurationCache.log
+dryrun.log
+settings.json
+targets.log
